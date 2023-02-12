@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myta-tfjs-ycra/static/css/main.0450de9e.css",
+    "main.js": "/myta-tfjs-ycra/static/js/main.d77e5d04.js",
+    "index.html": "/myta-tfjs-ycra/index.html",
+    "main.0450de9e.css.map": "/myta-tfjs-ycra/static/css/main.0450de9e.css.map",
+    "main.d77e5d04.js.map": "/myta-tfjs-ycra/static/js/main.d77e5d04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0450de9e.css",
+    "static/js/main.d77e5d04.js"
+  ]
+}
